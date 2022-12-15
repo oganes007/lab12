@@ -1,0 +1,44 @@
+.left {
+        float: left;
+        width: 50%;
+        background-color: #F5FFFA
+      }
+      .right {
+        float: right;
+        width: 50%;
+        background-color: #d6cdc1;
+      }
+      h2 {
+        font-weight: 400;
+        font-size: 60px;
+        text-align: center;
+        padding-top: 300px;
+        font-family: 'Roboto';
+        }
+    h4 {
+        font-weight: 400;
+        font-size: 15px;
+        text-align: center;
+        margin-top: 550px;
+        font-family: 'Roboto';
+        }
+    .fotka {
+        text-align: center;
+    }
+    table {
+        margin: auto;
+        border-collapse: collapse;
+        background-color: #F5F5F5;
+        font-family: 'Roboto';
+
+
+    }
+    td {
+        text-align: center;
+    }
+    .text {
+        font-family: 'Roboto';
+     }
+     .forma{
+        text-align: center;
+     }

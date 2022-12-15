@@ -1,0 +1,31 @@
+body{
+	text-align: justify;
+}
+
+.titles{
+	width: 140px;
+	float: left;
+}
+
+#form_message{
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	border-radius: 5px;
+	position: fixed; left: 40%;
+	width: 320px;
+	height:330px;
+}
+
+#form_message input,textarea{
+	border-radius: 5px;
+	width: 150px;
+}
+
+#submit{
+	height: 50px;
+	position: fixed; left: 50%;
+
+	
+}
+
+#form_message h2{
+	text-align: center;
